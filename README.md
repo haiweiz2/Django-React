@@ -5,7 +5,7 @@ A project in which Django and React integrate and CRUD operations performed, imp
 
 <h2>Project Screenshots:</h2>
 <p align="center" >
- <img src="https://github.com/shiv30310/Django-React/blob/main/images/home%20page.png" alt="project-screenshot" width="727" height="763/" >
+ <img src="https://github.com/shiv30310/Django-React/blob/main/images/home%20page.png" alt="project-screenshot" width="364" height="382/" >
 </p>
 <img src="https://github.com/shiv30310/Django-React/blob/main/images/products.png" alt="project-screenshot" width="958" height="399/">
 
