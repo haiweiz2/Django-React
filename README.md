@@ -1,17 +1,15 @@
 # Django-React
 A project in which Django and React integrate and CRUD operations performed, implementation of Hooks.
 
-<h1 align="center" id="title">Django+React WebApplication</h1>
-
 <p id="description">The React and Django web application is a full-stack application that allows users to perform CRUD operations (Create Read Update Delete) on a collection of products. The application provides a user-friendly interface to manage the products through the frontend while the backend is powered by Django REST framework (DRF) APIs to handle data storage and retrieval.</p>
 
 <h2>Project Screenshots:</h2>
+<p align="center" >
+ <img src="https://github.com/shiv30310/Django-React/blob/main/images/home%20page.png" alt="project-screenshot" width="727" height="763/" >
+</p>
+<img src="https://github.com/shiv30310/Django-React/blob/main/images/products.png" alt="project-screenshot" width="958" height="399/">
 
-<img src="https://github.com/shiv30310/Django-React/blob/main/images/home%20page.png" alt="project-screenshot" width="1916" height="798/">
-
-<img src="https://github.com/shiv30310/Django-React/blob/main/images/products.png" alt="project-screenshot" width="1916" height="798/">
-
-<img src="https://github.com/shiv30310/Django-React/blob/main/images/searchProducts.png" alt="project-screenshot" width="1916" height="798/">
+<img src="https://github.com/shiv30310/Django-React/blob/main/images/searchProducts.png" alt="project-screenshot" width="958" height="399/">
 
 <h2>🛠️ Installation Steps:</h2>
 
